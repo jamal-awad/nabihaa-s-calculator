@@ -1,0 +1,44 @@
+number = 500
+print(number)
+number1 = 50+90-9/100
+print(number1)
+name = "jamal"
+print("hello", name )
+phrase = "how are you"
+print("hey",phrase) 
+greetings = "hello " + name  + phrase
+print(greetings)
+num = 20
+num1 = 30
+sum =num+num1
+print(sum)
+name = input(" please enter your name")
+year=input("your bd")
+year = int(year)
+age=2025- int(year)
+greetings = " hello" + name + "you are" + str(age) + " years old"
+print(greetings)
+
+
+number = 500
+print(number)
+number1 = 50+90-9/100
+print(number1)
+name = "jamal"
+print("hello", name )
+phrase = "how are you"
+print("hey",phrase) 
+greetings = "hello " + name  + phrase
+print(greetings)
+num = 20
+num1 = 30
+sum =num+num1
+print(sum)
+name = input(" please enter your name")
+year=input("your bd")
+year = int(year)
+age=2025- int(year)
+greetings = " hello" + name + "you are" + str(age) + " years old"
+print(greetings)
+
+

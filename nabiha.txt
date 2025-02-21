@@ -1,0 +1,8 @@
+print("hello nabiha , thats your calculator")
+salary = int( input("please enter your salary: "))
+monthes = [ "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+month =input("please enter the month of the salary: ")
+for month in (monthes):
+    print(monthes)
+while month == (monthes):
+   print ("Write the month IN letters")s
